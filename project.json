@@ -1,0 +1,33 @@
+{
+  "title": "Preescolar",
+  "date": "2/02/21",
+  "description": {},
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "preescolar.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 17,
+  "mediaFiles": 9,
+  "totalSize": 7406732,
+  "files": [
+    "3fecd229874b22bc15ac24173948c8d8.gif",
+    "buen_trabajo.gif",
+    "favicon.ico",
+    "gif.gif",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "preescolar.jclic",
+    "preescolar.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "velo.gif"
+  ]
+}
